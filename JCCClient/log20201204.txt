@@ -1,0 +1,35 @@
+2020-12-04 09:14:55.540 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 09:17:15.728 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 09:17:20.588 +01:00 [FTL] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2020-12-04 09:19:41.081 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 09:20:02.532 +01:00 [FTL] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2020-12-04 09:21:28.045 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 09:25:57.471 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 09:42:22.530 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 09:46:45.273 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 09:51:21.681 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:18:01.272 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:20:00.008 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:28:18.354 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:30:50.576 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:38:28.701 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:39:02.366 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:49:58.797 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:51:46.988 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 10:54:57.306 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:05:53.414 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:07:37.847 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:09:33.020 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:10:04.934 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:14:47.706 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:16:16.424 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:19:01.653 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:19:30.329 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:23:35.897 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:25:31.096 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:26:24.985 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:29:22.107 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:33:33.309 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:34:16.445 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:35:44.623 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-04 12:38:10.449 +01:00 [FTL] bytesent!!!!!!!  98

@@ -1,0 +1,2 @@
+﻿url=https://localhost:44388/api/genericPost
+urlStatus=https://localhost:44388/api/status

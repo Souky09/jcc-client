@@ -1,0 +1,15 @@
+2020-12-03 16:59:25.793 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-03 16:59:56.018 +01:00 [FTL] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2020-12-03 17:06:19.381 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-03 17:06:58.708 +01:00 [FTL] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2020-12-03 17:21:28.515 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-03 17:21:41.216 +01:00 [FTL] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2020-12-03 17:35:22.327 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-03 17:35:42.590 +01:00 [FTL] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2020-12-03 17:38:00.469 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-03 17:38:25.728 +01:00 [FTL] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2020-12-03 17:40:29.246 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-03 17:51:50.994 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-03 17:52:44.337 +01:00 [FTL] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2020-12-03 17:56:34.404 +01:00 [FTL] bytesent!!!!!!!  98
+2020-12-03 18:03:28.523 +01:00 [FTL] bytesent!!!!!!!  98

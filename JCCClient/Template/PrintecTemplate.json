@@ -1,0 +1,220 @@
+{
+  "version": "1.0.0",
+  "fields": [
+    {
+      "value": "0x1C",
+      "format": null,
+      "length": 5
+    },
+    {
+      "value": "systemId",
+      "format": null,
+	  "length":32
+    },
+    {
+      "value": "transactiontype",
+      "format": "00",
+      "length": 2
+    },
+    {
+      "value": "origtransactionamount",
+      "format": "0000000V00",
+	   "length": 10
+    },
+    {
+      "value": "accountNumber",
+      "format": null,
+	  "length": 22
+    },
+    {
+      "value": "expirationdate",
+      "format": "yyMM",
+	   "length": 4
+    },
+    {
+      "value": "validfrom",
+      "format": "yyMM",
+	   "length": 4
+    },
+    {
+      "value": "originalReceiptNumber",
+      "format": null,
+	   "length": 4
+    },
+    {
+      "value": "authNo",
+      "format": null,
+	   "length": 6
+    },
+    {
+      "value": "cvv2",
+      "format": "000",
+      "length": "3"
+    },
+    {
+      "value": "contractOrRoomNo",
+      "format": null,
+	   "length": 9
+    },
+    {
+      "value": "startdate",
+      "format": "ddMMyyyy",
+	   "length": 8
+    },
+    {
+      "value": "ExtTerminalId",
+      "format": null,
+	   "length": 10
+    },
+    {
+      "value": "ExtMerchantId",
+      "format": null,
+	   "length": 10
+    },
+    {
+      "value": "ExtReferenceNumber",
+      "format": null,
+	   "length": 16
+    },
+    {
+      "value": "ReceiptContent",
+      "format": null,
+	   "length": 999
+    },
+    {
+      "value": "preparereceiptindicator",
+      "format": "0",
+	   "length": 1
+    },
+    {
+      "value": "language",
+      "format": "00",
+	   "length": 2
+    },
+    {
+      "value": "currencycode",
+      "format": "000",
+	   "length": 3
+    },
+    {
+      "value": "loyaltyrequesttype",
+      "format": "00",
+	   "length": 2
+    },
+    {
+      "value": "LoyaltyIdentificationMethod",
+      "format":null,
+	   "length": 22
+    },
+    {
+      "value": "OrgLoyaltyReferenceNumber",
+      "format": "0000",
+	   "length": 4
+    },
+    {
+      "value": "CashierID",
+      "format": "0000",
+	   "length": 4
+    },
+    {
+      "value": "ReturnPANEncrypted",
+      "format": "0",
+	   "length": 1
+    },
+    {
+      "value": "GenericLoyaltyFlag",
+      "format": "0",
+	   "length": 1
+    },
+    {
+      "value": "GenericLoyaltyBins",
+      "format": null,
+	   "length": 100
+    },
+    {
+      "value": "GiftTransactionType",
+      "format": "00",
+	   "length": 2
+    },
+    {
+      "value": "OrigGiftReferenceNumber",
+      "format": "0000",
+	   "length": 4
+    },
+    {
+      "value": "SupplyCVMResult",
+      "format": "0",
+	   "length": 1
+    },
+    {
+      "value": "BOCLoyaltyItems",
+      "format": null,
+	   "length": 1999
+    },
+    {
+      "value": "Password",
+      "format": null,
+	   "length": 16
+    },
+    {
+      "value": "MessageCode",
+      "format": "00",
+	   "length": 2
+    },
+	{
+      "value": "Length",
+      "format": null,
+	   "length": 4
+    },
+    {
+      "value": "MessageType",
+      "format": "000",
+	   "length": 3
+    },
+    {
+      "value": "CheckOutDate",
+      "format": "ddMMyyyy",
+	   "length": 8
+    },
+    {
+      "value": "BatchNumber",
+      "format": null,
+	   "length": 6
+    },
+    {
+      "value": "AgreementNumber",
+      "format": null,
+	  "length": 8
+    },
+    {
+      "value": "AgreementDate",
+      "format": "ddMMyyyy",
+	  "length": 8
+    },
+    {
+      "value": "SessionId",
+      "format": null,
+	  "length": 6
+    },
+	{
+      "value": "CashbackAmount",
+      "format": "0000000V00",
+	  "length": 10
+    },
+	{
+      "value": "EACAccountNumber",
+      "format": null,
+	  "length": 11
+    },
+	{
+      "value": "EACPhoneNumber",
+      "format": null,
+	  "length": 12
+    },
+	{
+      "value": "EACPaymentFlag",
+      "format": "0",
+	  "length": 1
+    }
+  ]
+}

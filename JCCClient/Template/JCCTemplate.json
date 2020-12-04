@@ -1,0 +1,130 @@
+{
+  "version": "1.0.0",
+  "fields": [
+    {
+      "value": "0x1E",
+      "format": null,
+	  "length":1
+    },
+	{
+      "value": "length",
+      "format": null,
+	  "length":6
+    },
+	{
+      "value": "sessionid",
+      "format": null,
+	  "length":12
+    },
+    {
+      "value": "authtype",
+      "format": "00",
+	  "length":2
+    },
+    {
+      "value": "amount",
+      "format": "000000000000",
+	  "length":12
+    },
+	{
+      "value": "additionalamount",
+      "format": null,
+	  "length":14
+    },
+	{
+      "value": "currencycode",
+      "format": "000",
+	  "length":3
+    },
+    {
+      "value": "originalreceiptnumber",
+      "format": null,
+	  "length":4
+    },
+    {
+      "value": "authno",
+      "format": null,
+	  "length":6
+    },
+    {
+      "value": "roomno",
+      "format": null,
+	  "length":9
+    },
+    {
+      "value": "checkoutdate",
+      "format": "ddMMyyyy",
+	  "length":8
+    },
+    {
+      "value": "contractnoforcarrental",
+      "format": null,
+	  "length":16
+    },
+    {
+      "value": "agreementDate",
+      "format": "ddMMyyyy",
+	  "length":8
+    },
+    {
+      "value": "PrepareReceiptIndicator",
+      "format": null,
+	  "length":1
+    },
+    {
+      "value": "printingcontext",
+      "format": null,
+	  "length":999
+    },
+    {
+      "value": "cashierid",
+      "format": null,
+	  "length":16
+    },
+    {
+      "value": "dccalertsupport",
+      "format": null,
+	  "length":1
+    },
+    {
+      "value": "loyaltyrequesttype",
+      "format": null,
+	  "length":2
+    },
+    {
+      "value": "loyaltyidentification",
+      "format": null,
+	  "length":30
+    },
+    {
+      "value": "originalloyaltyreceiptnumber",
+      "format": null,
+	  "length":4
+    },
+    {
+      "value": "gifttransactiontype",
+      "format": null,
+	  "length":2
+    },
+    {
+      "value": "originalgiftreceiptno",
+      "format": null,
+	  "length":4
+    },
+    {
+      "value": "bocloyaltyitems",
+      "format": null,
+	  "length":2000
+    },
+	{
+      "value": "terminalid",
+      "format": null,
+	  "length":12
+    },
+	{
+      "value": "tokenno",
+      "format": ,
+	  "length":24
+    }
+  ]
+}
